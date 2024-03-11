@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Putri Aziza Mufva</h1>
 <h3>a first year computer science student at BINUS University</h3>
 
-🌱 my portfolio: [https://kittenspow.github.io/my-first-portfolio/](https://kittenspow.github.io/my-first-portfolio/)
+🌱 check my portfolio -> [https://kittenspow.github.io/my-first-portfolio/](https://kittenspow.github.io/my-first-portfolio/)
 
 🐈 I love watching silly cat videos.
 
