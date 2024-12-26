@@ -3,7 +3,6 @@
 
 🌱 check out my portfolio -> [https://kittenspow.github.io/my-first-portfolio/](https://kittenspow.github.io/my-first-portfolio/)
 
-🐈 I love watching silly cat videos
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
