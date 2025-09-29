@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Putri Aziza Mufva</h1>
-<h3>a second year computer science student at BINUS University</h3>
+<h3>a third year computer science student at BINUS University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
